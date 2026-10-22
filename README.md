@@ -1,7 +1,32 @@
-# マインクエスト（MINE QUEST）
+# マインクエスト（MINE QUEST）第69版
 
-マインクラフト統合版の モンスター育成RPG アドオンです。
+野生の モンスターを スカウトして 仲間にし、配合と 育成で 最強の チームを 作る マインクラフト統合版の アドオンです。
+900体の モンスター、11の 地方と 十五の 石板の 物語、王と 神、クリア後の やりこみまで 遊べます。無料です。
 
-ダウンロードページ: https://joker05www.github.io/Mine-Quest/
+## ダウンロード（押すと すぐ 保存されます）
 
-ファイルは `files/` に あります。
+| ファイル | 内容 |
+|---|---|
+| **[本体を ダウンロード](https://github.com/JOKER05www/Mine-Quest/raw/main/files/MineQuest_v3_0_0.mcaddon)** | 必須。モンスター・バトル・街・物語・アイテム すべて 入り（8.2MB） |
+| **[配布マップを ダウンロード](https://github.com/JOKER05www/Mine-Quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界。アドオン 入りで 開くだけで 遊べる（39MB） |
+| [マップの アップデートツール（PC）](https://github.com/JOKER05www/Mine-Quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第69版に する（冒険の 続きは そのまま） |
+
+## 入れかた
+1. 本体（`MineQuest_v3_0_0.mcaddon`）を ダブルクリック（タップ）。マイクラが 開いて 自動で 入ります
+2. 新しい ワールドを 作り、ビヘイビアーパックで「マインクエスト」を 有効に する
+   - 配布マップは `MineQuest_map.mcworld` を 開くだけで 遊べます
+
+## Switch・スマホで 落ちる 方へ（軽量版）
+モンスターの 絵を 少し 粗くし、遠くの モンスターを 簡単な 形で 描いて 軽く した 版です。
+**ワールドを 開く 人（ホスト）だけが 入れれば、参加者 全員が 軽量版に なります。**
+
+| ファイル | 使う とき |
+|---|---|
+| **[軽量版の 本体](https://github.com/JOKER05www/Mine-Quest/raw/main/files/MineQuest_v3_0_0_lite.mcaddon)** | 新しい ワールド・Switch や スマホで ホストを する とき（ワールドの 設定で「（軽量版）」の リソースパックを 有効に） |
+| [軽量版 アップデートツール（PC）](https://github.com/JOKER05www/Mine-Quest/raw/main/files/MineQuest_update_lite.zip) | いま 遊んで いる ワールドを 軽量版に する（展開して `update.bat`） |
+| [サーバー用 4パック](https://github.com/JOKER05www/Mine-Quest/raw/main/files/MineQuest_lite_server_packs.zip) | レンタルサーバー（中の README の とおりに） |
+
+それでも 重い ときは、ガイドブック →「冒険」→「設定」で 軽量モードを オン・戦闘の 背景を オフ、マイクラの 描画距離を 6〜8 に してください。
+
+## こまった とき
+ガイドブック →「冒険」→「バグを 直す」を ためしてください。
