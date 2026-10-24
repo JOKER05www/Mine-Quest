@@ -1,9 +1,12 @@
-# マインクエスト（MINE QUEST）第90版
+# マインクエスト（MINE QUEST）第91版
 
 野生の モンスターを スカウトして 仲間にし、配合と 育成で 最強の チームを 作る マインクラフト統合版の アドオンです。
 900体の モンスター、11の 地方と 十五の 石板の 物語、王と 神、クリア後の やりこみまで 遊べます。無料です。
 
-## 第90版の おもな 変更
+## 第91版の おもな 変更
+- **追加ストーリーを 軽く**: 重かった 処理を 作り直し（セーブの 読みこみを まとめる・調べる ブロックを 大きく 減らす・壊す 量を 少しずつ）。街が まだ 建って いない 所でも 魔物が 湧く。街を その場で 建てる 量も 必要な 高さだけに
+
+### 第90版
 - **目的地の 光**: 物語の 次の 目標に 空まで 届く 光の 柱が 立つ（遠い ときは 目標の 方向に 立つ。設定で 消せる）
 - **さらに 軽く**: モンスターの 模型・攻撃モーションの データを 約2割 小さく
 
@@ -24,7 +27,7 @@
 | **[本体](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_v3_0_0.mcaddon)** | 必須。モンスター・バトル・街・物語・アイテム すべて 入り（8MB） |
 | **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（43MB） |
 | [追加ストーリー「滅びた世界」](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_Story_Ruinheim.mcpack) | 任意（試遊版）。本体と 同じ ワールドの ビヘイビアーパックに 入れる |
-| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第90版に する（冒険の 続きは そのまま） |
+| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第91版に する（冒険の 続きは そのまま） |
 
 ## 入れかた
 1. 本体（`MineQuest_v3_0_0.mcaddon`）を ダブルクリック（タップ）。マイクラが 開いて 自動で 入ります
