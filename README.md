@@ -1,39 +1,45 @@
-# マインクエスト（MINE QUEST）第75版
+# マインクエスト（MINE QUEST）第89版
 
 野生の モンスターを スカウトして 仲間にし、配合と 育成で 最強の チームを 作る マインクラフト統合版の アドオンです。
 900体の モンスター、11の 地方と 十五の 石板の 物語、王と 神、クリア後の やりこみまで 遊べます。無料です。
 
-## 第75版の おもな 変更
-- **マス目の 文字の 見切れを 修正**（実際の 文字の 大きさに 合わせて マスを 広く・文字を 小さく。ボタンの 文字は 3行まで、はみ出す ときは 下を「…」に）
-- **戦いの 画面は いつも マス目**（技が 少なくても。目標・道具の えらびも。スクロール なし）
-- 縦の 一覧でも「⊠」に なって いた 記号（◆■▲●○ など）を 出る 文字に
-- 第74版：暗い 色の マス目／第73版：えらぶ 画面が マス目に・軽量版の 絵を 小さく
-- ※ マス目の お試しパック（A・B・C）を 入れて いる 人は、グローバルリソースから 外して ください
+## 第89版の おもな 変更
+- **追加ストーリー「滅びた世界」（試遊版・まだ 作りかけ）**: エンマを 倒した あとの お話。灰の 街ルインヘイムで 配下15体と 邪神に 挑む。巨大な 魔物が 建物を 壊しながら 追って くる。チートブックから すぐ 遊ぶ ことも できる（追加ストーリーの パックが 必要）
+- **軽く した**: スクリプトの データを 約3割 小さく・建物を 作る ときの 置きかえを 少しずつに（ライド中や 歩いて いる ときに 固まる 対策）
+- モンスターの 見た目の 大きさを 元に 戻した（乗った ときに 前が 見える）
+- 特性の秘薬で つけた ハガネボディは、もう 一度 秘薬を 使えば ほかの 特性に かえられる（戦いで HPが 1割に なる ため）
+- 縮小の秘薬（S）・ちぢみの実が 2段目からの 町の 道具屋に いつも 並ぶ
+- 石板の ダンジョンで 階段（光る 床）が 外側に 残る 不具合を 修正
+- 再会の石板・闘技場の かけで、とちゅうで ぬけた ときに お金が 戻らない 不具合を 修正
+- 説明文の 見直し（わかりにくい 文・誤字・画面で 切れる 文）・ムサシの 戦いの せりふを 20種類に
 
 ## ダウンロード（押すと すぐ 保存されます）
 
 | ファイル | 内容 |
 |---|---|
-| **[本体を ダウンロード](https://github.com/JOKER05www/Mine-Quest/raw/main/files/MineQuest_v3_0_0.mcaddon)** | 必須。モンスター・バトル・街・物語・アイテム すべて 入り（8.2MB） |
-| **[配布マップを ダウンロード](https://github.com/JOKER05www/Mine-Quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界。アドオン 入りで 開くだけで 遊べる（39MB） |
-| [マップの アップデートツール（PC）](https://github.com/JOKER05www/Mine-Quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第75版に する（冒険の 続きは そのまま） |
+| **[本体](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_v3_0_0.mcaddon)** | 必須。モンスター・バトル・街・物語・アイテム すべて 入り（8MB） |
+| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（43MB） |
+| [追加ストーリー「滅びた世界」](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_Story_Ruinheim.mcpack) | 任意（試遊版）。本体と 同じ ワールドの ビヘイビアーパックに 入れる |
+| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第89版に する（冒険の 続きは そのまま） |
 
 ## 入れかた
 1. 本体（`MineQuest_v3_0_0.mcaddon`）を ダブルクリック（タップ）。マイクラが 開いて 自動で 入ります
 2. 新しい ワールドを 作り、ビヘイビアーパックで「マインクエスト」を 有効に する
    - 配布マップは `MineQuest_map.mcworld` を 開くだけで 遊べます
+3. 追加ストーリーで 遊ぶ ときは `MineQuest_Story_Ruinheim.mcpack` も 同じ ワールドに 入れて 有効に する
 
 ## Switch・スマホで 落ちる 方へ（軽量版）
-モンスターの 絵を 少し 粗くし、遠くの モンスターを 簡単な 形で 描いて 軽く した 版です。
-**ワールドを 開く 人（ホスト）だけが 入れれば、参加者 全員が 軽量版に なります。**
+モンスターを ドット絵に して 軽く した 版です。**ワールドを 開く 人（ホスト）だけが 入れれば、参加者 全員が 軽量版に なります。**
 
 | ファイル | 使う とき |
 |---|---|
-| **[軽量版の 本体](https://github.com/JOKER05www/Mine-Quest/raw/main/files/MineQuest_v3_0_0_lite.mcaddon)** | 新しい ワールド・Switch や スマホで ホストを する とき（ワールドの 設定で「（軽量版）」の リソースパックを 有効に） |
-| [軽量版 アップデートツール（PC）](https://github.com/JOKER05www/Mine-Quest/raw/main/files/MineQuest_update_lite.zip) | いま 遊んで いる ワールドを 軽量版に する（展開して `update.bat`） |
-| [サーバー用 4パック](https://github.com/JOKER05www/Mine-Quest/raw/main/files/MineQuest_lite_server_packs.zip) | レンタルサーバー（中の README の とおりに） |
+| **[軽量版の 本体](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_v3_0_0_lite.mcaddon)** | 新しい ワールド・Switch や スマホで ホストを する とき |
+| **[軽量版の 配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map_lite.mcworld)** | 配布マップを 軽量版で はじめから |
+| [軽量版 アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update_lite.zip) | いま 遊んで いる ワールドを 軽量版に する（展開して `update.bat`） |
+| [サーバー用 4パック](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_lite_server_packs.zip) | レンタルサーバー（中の README の とおりに） |
 
-それでも 重い ときは、ガイドブック →「冒険」→「設定」で 軽量モードを オン・戦闘の 背景を オフ、マイクラの 描画距離を 6〜8 に してください。
+それでも 重い ときは、ガイドブック →「冒険」→「設定」で 軽量モードを オン、マイクラの 描画距離を 6〜8 に してください。
 
 ## こまった とき
-ガイドブック →「冒険」→「バグを 直す」を ためしてください。
+- ガイドブック →「冒険」→「バグを 直す」を ためしてください
+- PCで ワールドを 開く ときに 落ちる 場合: 更新ツールで「灰都の 街も 入れますか？」に y と 答えた ときは、ツールが デスクトップに 作った バックアップを 元の 場所に 戻し、n で もう一度 更新して ください（街は ゲームの 中で 少しずつ 建ちます）
