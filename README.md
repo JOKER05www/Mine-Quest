@@ -1,9 +1,12 @@
-# マインクエスト（MINE QUEST）第92版
+# マインクエスト（MINE QUEST）第93版
 
 野生の モンスターを スカウトして 仲間にし、配合と 育成で 最強の チームを 作る マインクラフト統合版の アドオンです。
 900体の モンスター、11の 地方と 十五の 石板の 物語、王と 神、クリア後の やりこみまで 遊べます。無料です。
 
-## 第92版の おもな 変更
+## 第93版の おもな 変更
+- 追加ストーリー: 魔物が ほとんど 湧かなかった 不具合を 修正（メニューの 印が のこると 湧きが 止まって いた・1体 おかしいと 湧きの 処理ごと 止まって いた・ビルの 多い 所で 場所が 見つからなかった）
+
+### 第92版
 - 追加ストーリー: 魔物の 攻撃が 当たらなかった 不具合と、ふわふわ 浮く 効果を 修正。壊れて 落ちる 砂で 固まる のを 修正。海の 魔物は 用水路や 池を 泳ぐ。その場で 建てた 街の 下を 石で うめる
 - 石板の ダンジョン: となりの 階の 階段の 光が 壁の 外に 見えて いたのを 修正
 - 画面の 文字が「⊠」に なる 記号を ことばに
@@ -32,7 +35,7 @@
 | **[本体](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_v3_0_0.mcaddon)** | 必須。モンスター・バトル・街・物語・アイテム すべて 入り（8MB） |
 | **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（43MB） |
 | [追加ストーリー「滅びた世界」](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_Story_Ruinheim.mcpack) | 任意（試遊版）。本体と 同じ ワールドの ビヘイビアーパックに 入れる |
-| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第92版に する（冒険の 続きは そのまま） |
+| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第93版に する（冒険の 続きは そのまま） |
 
 ## 入れかた
 1. 本体（`MineQuest_v3_0_0.mcaddon`）を ダブルクリック（タップ）。マイクラが 開いて 自動で 入ります
