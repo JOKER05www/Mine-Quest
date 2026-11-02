@@ -118,7 +118,7 @@ $("#themeBtn").onclick = () => { const cur = document.documentElement.dataset.th
 
 const PAGES = [["home", "ホーム"], ["play", "遊び方"], ["battle", "バトル"], ["world", "世界と 物語"], ["people", "人物"], ["post", "クリア後"], ["eg", "やりこみ"], ["explore", "探索"], ["town", "町"], ["bond", "きずな"], ["guide", "おすすめ モンスター"], ["boss", "ボス攻略"], ["mons", "モンスター"], ["rank", "ランキング"], ["moves", "技"], ["skills", "スキル"], ["traits", "特性"], ["items", "道具"], ["fuse", "配合"], ["multi", "導入・マルチ"]];
 
-fetch("mq.json").then((r) => r.json()).then(init).catch(() => { $("#loading").textContent = "データを 読み込めませんでした。ページを 開きなおしてください。"; });
+fetch("mq.json").then((r) => { if (!r.ok) throw 0; return r; }).catch(() => fetch("https://raw.githubusercontent.com/JOKER05www/Mine-Quest/main/guide/mq.json")).then((r) => r.json()).then(init).catch(() => { $("#loading").textContent = "データを 読み込めませんでした。ページを 開きなおしてください。"; });
 
 function fxPair(x) { return x[2] ? `${x[0]} → ${x[1]}（この 順に えらぶ）` : `${x[0]} × ${x[1]}`; }
 function fxLines(f) {
