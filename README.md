@@ -9,7 +9,7 @@
 |---|---|
 | **[攻略サイト](https://claude.ai/artifact/SV4zHYstG1JasnapW6ddwX)** | モンスター 901体・技・スキル・特性・道具・配合表・探索・町・きずな・遊び場（[文字だけの 攻略ガイド](GUIDE.md)も あり） |
 | **[本体](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_v3_0_0.mcaddon)** | 必須。モンスター・バトル・街・物語・アイテム すべて 入り（8MB） |
-| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（33MB） |
+| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（約35MB・ワールド名「マインクエスト 第108版」） |
 | [追加ストーリー「滅びた世界」](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_Story_Ruinheim.mcpack) | 任意（試遊版）。本体と 同じ ワールドの ビヘイビアーパックに 入れる |
 | [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第108版に する（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
 
