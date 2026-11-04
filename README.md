@@ -1,4 +1,4 @@
-# マインクエスト（MINE QUEST）第110版
+# マインクエスト（MINE QUEST）第111版
 
 野生の モンスターを スカウトして 仲間にし、配合と 育成で 最強の チームを 作る マインクラフト統合版の アドオンです。
 901体の モンスター、11の 地方と 十五の 石板の 物語、王と 神、クリア後の やりこみまで 遊べます。無料です。
@@ -9,15 +9,20 @@
 |---|---|
 | **[攻略サイト](https://claude.ai/artifact/SV4zHYstG1JasnapW6ddwX)** | モンスター 901体・技・スキル・特性・道具・配合表・探索・町・きずな・遊び場（[文字だけの 攻略ガイド](GUIDE.md)も あり） |
 | **[本体](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_v3_0_0.mcaddon)** | 必須。モンスター・バトル・街・物語・アイテム すべて 入り（8MB） |
-| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（約35MB・ワールド名「マインクエスト 第110版」） |
+| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（約35MB・ワールド名「マインクエスト 第111版」） |
 | [追加ストーリー「滅びた世界」](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_Story_Ruinheim.mcpack) | 任意（試遊版）。本体と 同じ ワールドの ビヘイビアーパックに 入れる |
-| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第110版に する（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
+| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第111版に する（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
 
 
 <details>
 <summary><b>アップデート情報</b>（クリックで ひらく）</summary>
 
-### 第110版 ― 町の 人と 遊ぼう
+### 第111版 ― 会話と 宝箱
+- **会話を 作りなおし**: 話題を えらんで 話す（あいさつ・仕事・町の おすすめ・好きな もの・うわさ話 など）。相手の 質問には 答えを えらんで 返せる。自分で 打つ ことも できる
+- **家の 宝箱に お宝**: 町や 城下町の 家の 宝箱に、薬・タマゴ・装備など 冒険で 使える 道具。遠い 地方ほど 良い 物が 入る
+- **全滅したら 宿屋の 前へ**: 町の 宿屋の 入口に 戻る
+
+### 第111版 ― 町の 人と 遊ぼう
 - **町の 人と 交流**: 話しかけると「話す・モンスター勝負・デート・鬼ごっこ・お見合い配合」
 - **贈り物**: 花や お菓子、宝石を 手に 持って 話しかけると プレゼント。好きな 物だと 大喜び（仲よし ♥ アップ）
 - **デート**: 仲よく なった 人と カフェ・食堂・噴水・ベンチを めぐる。カフェでは 一緒に ケーキ
