@@ -1,4 +1,4 @@
-# マインクエスト（MINE QUEST）第111版
+# マインクエスト（MINE QUEST）第112版
 
 野生の モンスターを スカウトして 仲間にし、配合と 育成で 最強の チームを 作る マインクラフト統合版の アドオンです。
 901体の モンスター、11の 地方と 十五の 石板の 物語、王と 神、クリア後の やりこみまで 遊べます。無料です。
@@ -9,13 +9,22 @@
 |---|---|
 | **[攻略サイト](https://claude.ai/artifact/SV4zHYstG1JasnapW6ddwX)** | モンスター 901体・技・スキル・特性・道具・配合表・探索・町・きずな・遊び場（[文字だけの 攻略ガイド](GUIDE.md)も あり） |
 | **[本体](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_v3_0_0.mcaddon)** | 必須。モンスター・バトル・街・物語・アイテム すべて 入り（8MB） |
-| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（約35MB・ワールド名「マインクエスト 第111版」） |
+| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（約35MB・ワールド名「マインクエスト 第112版」） |
 | [追加ストーリー「滅びた世界」](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_Story_Ruinheim.mcpack) | 任意（試遊版）。本体と 同じ ワールドの ビヘイビアーパックに 入れる |
-| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第111版に する（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
+| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第112版に する（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
 
 
 <details>
 <summary><b>アップデート情報</b>（クリックで ひらく）</summary>
+
+### 第112版 ― ムービーと 港町
+- **物語が ムービーに**: 話す 人に カメラが 寄り、2人の 会話は 横から 映る。場面の 始めは 町や 城を ぐるりと 見わたして 場所の 名前が 出る。山場では カメラが 主人公の まわりを 回る
+- **場面に 合った 場所で**: 城に 呼ばれたら 城へ、港の 事件は 港の 桟橋へ。暗転して 移ってから 話が 始まる
+- **町が 1つずつ ちがう すがたに**: 道の 形・広場・川や 湖・坂・塔や 風車が 町ごとに ちがう
+- **港町は 2つの 顔**: 運河が 流れる 色とりどりの 町（石の 岸・橋・小舟）と、白い 家が 海へ 下りる 坂の 町。通りの 旗飾り・店の 日よけ・赤白の 灯台
+- カメラが いらない ときは ガイドブック ＞ 設定 ＞ カメラワーク で 切れる
+
+![港町](files/preview_v112_port.png)
 
 ### 第111版 ― 会話と 宝箱
 - **会話を 作りなおし**: 話題を えらんで 話す（あいさつ・仕事・町の おすすめ・好きな もの・うわさ話 など）。相手の 質問には 答えを えらんで 返せる。自分で 打つ ことも できる
