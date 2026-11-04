@@ -1,4 +1,4 @@
-# マインクエスト（MINE QUEST）第118版
+# マインクエスト（MINE QUEST）第119版
 
 野生の モンスターを スカウトして 仲間にし、配合と 育成で 最強の チームを 作る マインクラフト統合版の アドオンです。
 901体の モンスター、11の 地方と 十五の 石板の 物語、王と 神、クリア後の やりこみまで 遊べます。無料です。
@@ -9,13 +9,20 @@
 |---|---|
 | **[攻略サイト](https://claude.ai/artifact/SV4zHYstG1JasnapW6ddwX)** | モンスター 901体・技・スキル・特性・道具・配合表・探索・町・きずな・遊び場（[文字だけの 攻略ガイド](GUIDE.md)も あり） |
 | **[本体](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_v3_0_0.mcaddon)** | 必須。モンスター・バトル・街・物語・アイテム すべて 入り（8MB） |
-| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（約35MB・ワールド名「マインクエスト 第118版」） |
+| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（約35MB・ワールド名「マインクエスト 第119版」） |
 | [追加ストーリー「滅びた世界」](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_Story_Ruinheim.mcpack) | 任意（試遊版）。本体と 同じ ワールドの ビヘイビアーパックに 入れる |
-| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第118版に する（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
+| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第119版に する（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
 
 
 <details>
 <summary><b>アップデート情報</b>（クリックで ひらく）</summary>
+
+### 第119版 ― 大人の 女性の 新しい 体つき・場面と 町の 点検
+- 大人の 女性の 人たちの 体つきを 作り直した（丸みと やわらかい 陰）。歩く ときや しぐさの ときに 自然に 揺れる
+- 物語の 場面が 木の 下・屋台の 上・斜面でも 開けた 場所で 始まる。人どうしが 重ならず、カメラが 木や 壁に 入らない
+- 場面の あいだは まわりの 人・町の 外の 人・名札も 隠れて 止まる
+- 城下町の 地面が 変わって しまう・城下町の 外側に モンスターが 出る などを 直した。建物が 水の 中や 宙に できないように
+- そのほか 細かい 不具合を 直した
 
 ### 第118版 ― 映画のような 物語の 場面・先手を 取れる 序盤
 - **物語の 場面が 映画のように**: 上下の 黒い 帯、名前と 1字ずつ 出る 会話の 枠、章の 見出し、白い 閃光と 集中線
