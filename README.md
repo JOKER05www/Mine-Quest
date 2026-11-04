@@ -1,4 +1,4 @@
-# マインクエスト（MINE QUEST）第116版
+# マインクエスト（MINE QUEST）第117版
 
 野生の モンスターを スカウトして 仲間にし、配合と 育成で 最強の チームを 作る マインクラフト統合版の アドオンです。
 901体の モンスター、11の 地方と 十五の 石板の 物語、王と 神、クリア後の やりこみまで 遊べます。無料です。
@@ -9,13 +9,22 @@
 |---|---|
 | **[攻略サイト](https://claude.ai/artifact/SV4zHYstG1JasnapW6ddwX)** | モンスター 901体・技・スキル・特性・道具・配合表・探索・町・きずな・遊び場（[文字だけの 攻略ガイド](GUIDE.md)も あり） |
 | **[本体](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_v3_0_0.mcaddon)** | 必須。モンスター・バトル・街・物語・アイテム すべて 入り（8MB） |
-| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（約35MB・ワールド名「マインクエスト 第116版」） |
+| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（約35MB・ワールド名「マインクエスト 第117版」） |
 | [追加ストーリー「滅びた世界」](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_Story_Ruinheim.mcpack) | 任意（試遊版）。本体と 同じ ワールドの ビヘイビアーパックに 入れる |
-| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第116版に する（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
+| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第117版に する（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
 
 
 <details>
 <summary><b>アップデート情報</b>（クリックで ひらく）</summary>
+
+### 第117版 ― 物語の 場面を 作りなおし・町の 外にも 人が
+![町の 男性たち](files/preview_v117_townsmen.png)
+- **物語の 場面を 作りなおした**: 開けた 場所で 始まり、人物は 決まった 位置に 並んで 話す 相手を 向く。カメラは 壁を よけて 映し、場面中は 手や ホットバーが 出ない
+- **町の 外にも 人が**: 草原を 旅する 人や、モンスターを 戦わせて いる 冒険者に 出会う
+- **町の 男性 50人**: 剣士・鍛冶屋・漁師・騎士・商人・料理人・学者・おじいさん・少年 など
+- **名札を すっきり**: いつも 出るのは 物語の 人物と お店・宿屋などの 大事な 人だけ
+- **町の 人との モンスター勝負が 手ごわく**
+- **配合の バランス**: プラス値の 伸びを ゆるやかに。レベルを 上げる 楽しさが もどる
 
 ### 第116版 ― 物語の 後半も アニメのように
 - **第7章〜終章を 作りなおした**: 燃える 夜の 浜、霊廟の 告白、氷の 上の 双子、竜骨の 決戦…… その 場所で 人が 動き、表情が かわる 場面に
