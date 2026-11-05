@@ -1,4 +1,4 @@
-# マインクエスト（MINE QUEST）第122版
+# マインクエスト（MINE QUEST）第123版
 
 野生の モンスターを スカウトして 仲間にし、配合と 育成で 最強の チームを 作る マインクラフト統合版の アドオンです。
 901体の モンスター、11の 地方と 十五の 石板の 物語、王と 神、クリア後の やりこみまで 遊べます。無料です。
@@ -9,13 +9,21 @@
 |---|---|
 | **[攻略サイト](https://claude.ai/artifact/SV4zHYstG1JasnapW6ddwX)** | モンスター 901体・技・スキル・特性・道具・配合表・探索・町・きずな・遊び場（[文字だけの 攻略ガイド](GUIDE.md)も あり） |
 | **[本体](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_v3_0_0.mcaddon)** | 必須。モンスター・バトル・街・物語・アイテム すべて 入り（8MB） |
-| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（約35MB・ワールド名「マインクエスト 第122版」） |
+| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（約35MB・ワールド名「マインクエスト 第123版」） |
 | [追加ストーリー「滅びた世界」](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_Story_Ruinheim.mcpack) | 任意（試遊版）。本体と 同じ ワールドの ビヘイビアーパックに 入れる |
-| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第122版に する（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
+| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第123版に する（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
 
 
 <details>
 <summary><b>アップデート情報</b>（クリックで ひらく）</summary>
+
+### 第123版 ― 物語の 作り直し・本当の 廃都
+- 物語の 場面は、その 出来事が 起きる 場所で（町外れの 牧場・荒野の 崖道・城の 中庭・玉座の 間・港の 桟橋・洞くつの 広間 など）。洞くつは 広間まで 降りきってから 始まる
+- 登場する 人には ここに いる 理由を、戦う ときは おたがいの 理由を。理由の ない 連戦を なくし、ただの 腕試しは 断れる
+- 幼なじみの 話し方が 4通りに（元気・おっとり・クール・ていねい）
+- 廃都 グランディアが 本当の 廃墟に
+- 石板を 封印した あと 広場へ 戻らなくて よい。旅先の ライバルとの 勝負は 選べる
+- クリア後の 話の 食い違いを 直した
 
 ### 第122版 ― チートブックで 物語を 進める
 - チートブックに「物語を 先へ 進める」（1つ・5つ ずつ。石板の 封印・だいじなもの・関所も そろう。最後の 段は 自分で）
