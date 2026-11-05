@@ -1,4 +1,4 @@
-# マインクエスト（MINE QUEST）第120版
+# マインクエスト（MINE QUEST）第121版
 
 野生の モンスターを スカウトして 仲間にし、配合と 育成で 最強の チームを 作る マインクラフト統合版の アドオンです。
 901体の モンスター、11の 地方と 十五の 石板の 物語、王と 神、クリア後の やりこみまで 遊べます。無料です。
@@ -9,13 +9,19 @@
 |---|---|
 | **[攻略サイト](https://claude.ai/artifact/SV4zHYstG1JasnapW6ddwX)** | モンスター 901体・技・スキル・特性・道具・配合表・探索・町・きずな・遊び場（[文字だけの 攻略ガイド](GUIDE.md)も あり） |
 | **[本体](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_v3_0_0.mcaddon)** | 必須。モンスター・バトル・街・物語・アイテム すべて 入り（8MB） |
-| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（約35MB・ワールド名「マインクエスト 第120版」） |
+| **[配布マップ](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_map.mcworld)** | 任意。11の 地方の 世界と 灰の 街。開くだけで 遊べる（約35MB・ワールド名「マインクエスト 第121版」） |
 | [追加ストーリー「滅びた世界」](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_Story_Ruinheim.mcpack) | 任意（試遊版）。本体と 同じ ワールドの ビヘイビアーパックに 入れる |
-| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第120版に する（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
+| [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第121版に する（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
 
 
 <details>
 <summary><b>アップデート情報</b>（クリックで ひらく）</summary>
+
+### 第121版 ― 序盤の 敵と 石板の ボス・人の モンスターを スカウト
+- 序盤の 野生と 町や 野を 歩く 人の モンスターは 1回だけ 動く（Lv25まで。Lv26〜40は 2回目が ときどき）
+- 石板の ボスを 強く: かならず 2回 動き、HPと 能力も 上がった
+- 町や 野を 歩く 人との モンスター勝負でも スカウトできる（野生より むずかしい）
+- 攻略サイトと 文字の 攻略ガイドを 最新に
 
 ### 第120版 ― ムービーを 見やすく
 - 物語の 場面で 上下の 黒い 帯・集中線・白い 光・紫の 暗がりを 出さない
