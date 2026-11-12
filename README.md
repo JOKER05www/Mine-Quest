@@ -14,6 +14,17 @@
 | [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第128版に する（約26MB）（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
 
 
+## もう一つの世界（新しい大陸・新しい物語）
+
+第128版とは **別の ワールド** です（いまは 試しの 版＝プレビュー）。第128版の ワールドや パックとは 別の パックとして 入るので、同じ 端末に 両方 入れて 遊べます。ワールド名は「MineQuest もう一つの世界」。
+
+| ファイル | 内容 |
+|---|---|
+| **[もう一つの世界](https://github.com/JOKER05www/mine-quest/raw/main/files/another/MineQuest_another_world.mcworld)** | 新しい 大陸（都 10・町と 村 40・物語の 施設と ステージ）。開くだけで 遊べる（約45MB） |
+| [もう一つの世界（軽量版）](https://github.com/JOKER05www/mine-quest/raw/main/files/another/MineQuest_another_world_lite.mcworld) | Switch・スマホ向け（モンスターは ドット絵・約42MB） |
+
+※ 試しの 版です。地形・物語は まだ 直して いる 途中で、ファイルは 予告なく 差し替わります。第128版の 冒険の 記録は 引きつぎません。
+
 <details>
 <summary><b>アップデート情報</b>（クリックで ひらく）</summary>
 
