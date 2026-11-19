@@ -14,6 +14,25 @@
 | [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第128版に する（約26MB）（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
 
 
+## 新作「MineQuest バトル」（対戦ワールド）
+
+7体の モンスターから 1体を 選び、技・性格・特性・石板・持ち物を 組んで 戦う 対戦ワールドです。1人でも NPCと 遊べます。マルチプレイにも 対応しています。
+
+| ファイル | 内容 |
+|---|---|
+| **[MineQuest バトル](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_battle.mcworld)** | 開くだけで 遊べる ワールド（約2.6MB）。試合形式 12種・ステージ 7つ・チュートリアル つき |
+
+<details><summary>MineQuest バトルの 遊び方（画像）</summary>
+
+![MineQuest バトル](files/battle/01_main.png)
+![操作](files/battle/rule_1_controls.png)
+![試合形式](files/battle/rule_2_modes.png)
+![準備と 進化](files/battle/rule_3_build.png)
+![戦いの しくみ](files/battle/rule_4_battle.png)
+![ステージ](files/battle/rule_5_stages.png)
+
+</details>
+
 ## 入れかた
 1. 本体（`MineQuest_v3_0_0.mcaddon`）を ダブルクリック（タップ）。マイクラが 開いて 自動で 入ります
 2. 新しい ワールドを 作り、ビヘイビアーパックで「マインクエスト」を 有効に する
