@@ -14,6 +14,22 @@
 | [マップの アップデートツール（PC）](https://github.com/JOKER05www/mine-quest/raw/main/files/MineQuest_update.zip) | 前の 版の 配布マップを 第128版に する（約26MB）（冒険の 続きは そのまま。町や 城の 並びは 前の まま） |
 
 
+## 新作「スポーツアイランド」（12の スポーツ）
+
+南の 島で チャンバラ・ボウリング・アーチェリー・バスケ・ゴルフ・フリスビードッグ・卓球・飛び込み・スカイダイビング・遊覧飛行・ボートレース・トロッコの 的当てを 遊べる ワールドです。マルチは 最大10人。
+
+| ファイル | 内容 |
+|---|---|
+| **[スポーツアイランド](https://github.com/JOKER05www/mine-quest/raw/main/files/SportsIsland.mcworld)** | 開くだけで 遊べる ワールド（約1MB）。12競技・スタンプ帳・島の 記録・お手本つき |
+
+<details><summary>スポーツアイランドの 画像</summary>
+
+![スポーツアイランド](files/sports/thumbnail.png)
+![島の 地図](files/sports/map.png)
+
+</details>
+
+
 ## 新作「MineQuest PvP」（対戦ワールド）
 
 7体の モンスターから 1体を 選び、技・性格・特性・石板・持ち物を 組んで 戦う 対戦ワールドです。1人でも NPCと 遊べます。マルチプレイにも 対応しています。
